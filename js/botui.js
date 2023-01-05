@@ -106,7 +106,7 @@ function bot_ui_ini() {
                 botui.action.button({
                     delay: 1500,
                     action: [{
-                        text: "为什么是 Eddy 呢？ 🤔",
+                        text: "为什么是 E 呢？ 🤔",
                         value: "why-eddy"
                     }]
                 }).then(function (a) {
